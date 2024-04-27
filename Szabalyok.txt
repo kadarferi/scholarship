@@ -4,25 +4,27 @@
 
 Tevékenységek
 -------------
+0. Alap juttatás
 1. Tanulás
 2. Sport  
 (3. Könyvek olvasása)
   
 1. Tanulás
--------
-Jegyek havi súlyozott átlaga alapján:  
+-----------
+Jegyek havi súlyozott átlaga alapján
+Kréta rendszerből hogyan tudom megkapni az adatokat?
   
 Súlyok:
 3* Matematika, Angol
 2* Történelem, Magyar, Természet-tudományok
 1* Minden egyéb
   
-Milyen átlagot várun kel?
+Milyen átlagot várunk el?
 - 3 (3,5?) alatt semmiképp nem jár semmi.
 - 3 feletti értékekre egy fokozatosan növekvő összeg, pl. négyzetesen, pl. (jegyek_átlaga - 3)**2 * X, ahol X valamilyen előre meghatározott összeg  
   
 2. Sport
---------
+---------
 Minden bizonyított sport-tevékenység után
 - Edzés
 - Egyéb - nehezen ellenőrizhető  
