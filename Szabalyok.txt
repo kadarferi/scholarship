@@ -1,9 +1,12 @@
-Kistesó ösztöndíj program
--------------------------
+*********************************
+    Kistesó ösztöndíj program
+*********************************
 
-Kétféle tevékenységre kaphat pénzt
+Tevékenységek
+-------------
 1. Tanulás
 2. Sport  
+(3. Könyvek olvasása)
   
 1. Tanulás
 -------
