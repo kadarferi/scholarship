@@ -8,6 +8,7 @@ Tevékenységek
 1. Tanulás
 2. Sport  
 (3. Könyvek olvasása)
+(4. Házimunka)
   
 1. Tanulás
 -----------
@@ -32,7 +33,10 @@ Minden bizonyított sport-tevékenység után
 3. Könyvek olvasása
 -------------------
 Az a baj, hogy nehezen ellenőrizhető
-  
+
+4. Házimunka
+------------
+Nehezen ellenőrizhető, nincs megbízható forrás.
   
 Összegek
 --------
