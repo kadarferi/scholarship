@@ -1,0 +1,2 @@
+# scholarship
+Kistesó ösztöndíj program
